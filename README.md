@@ -1,2 +1,3 @@
-<h1>Merhaba</h2>
-html eğitimi ödevi
+<h1>Merhaba</h1>
+
+<h2>Html eğitimi ödevi<h2/>
